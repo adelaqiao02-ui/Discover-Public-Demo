@@ -1,0 +1,341 @@
+user_id,session_id,object_id,gaze_time,gaze_time_original,time_stamp,was_capped,data_provenance
+201,S2,Respiratory Equipment,0.443,0.443,2026-11-06 09:00:00.489,False,synthetic
+201,S2,AutoHandPlayer,0.931,0.931,2026-11-06 09:00:02.182,False,synthetic
+201,S2,IV Equipment,1.85,1.85,2026-11-06 09:00:04.993,False,synthetic
+201,S2,Respiratory Equipment,1.071,1.071,2026-11-06 09:00:06.372,False,synthetic
+201,S2,RoomCollider2,0.717,0.717,2026-11-06 09:00:08.947,False,synthetic
+201,S2,HeadFollower,1.7,1.7,2026-11-06 09:00:10.161,False,synthetic
+201,S2,HeadFollower,0.882,0.882,2026-11-06 09:00:12.578,False,synthetic
+201,S2,Monitor,1.817,1.817,2026-11-06 09:00:14.775,False,synthetic
+201,S2,Respiratory Equipment,0.451,0.451,2026-11-06 09:00:16.697,False,synthetic
+201,S2,RoomCollider2,1.223,1.223,2026-11-06 09:00:18.454,False,synthetic
+201,S2,Respiratory Equipment,0.712,0.712,2026-11-06 09:00:20.633,False,synthetic
+201,S2,IV Equipment,1.006,1.006,2026-11-06 09:00:22.552,False,synthetic
+201,S2,Patient,0.745,0.745,2026-11-06 09:00:24.695,False,synthetic
+201,S2,IV Equipment,0.364,0.364,2026-11-06 09:00:26.612,False,synthetic
+201,S2,RoomCollider2,0.19,0.19,2026-11-06 09:00:28.257,False,synthetic
+201,S2,Respiratory Equipment,1.841,1.841,2026-11-06 09:00:30.954,False,synthetic
+201,S2,AutoHandPlayer,1.401,1.401,2026-11-06 09:00:32.683,False,synthetic
+201,S2,AutoHandPlayer,1.557,1.557,2026-11-06 09:00:34.757,False,synthetic
+201,S2,Respiratory Equipment,1.677,1.677,2026-11-06 09:00:36.026,False,synthetic
+201,S2,Patient,0.281,0.281,2026-11-06 09:00:38.000,False,synthetic
+201,S2,Patient,0.471,0.471,2026-11-06 09:00:40.070,False,synthetic
+201,S2,Monitor,0.888,0.888,2026-11-06 09:00:42.067,False,synthetic
+201,S2,AutoHandPlayer,1.494,1.494,2026-11-06 09:00:44.006,False,synthetic
+201,S2,HeadFollower,0.912,0.912,2026-11-06 09:00:46.670,False,synthetic
+201,S2,RoomCollider2,1.402,1.402,2026-11-06 09:00:48.762,False,synthetic
+201,S2,IV Equipment,1.853,1.853,2026-11-06 09:00:50.990,False,synthetic
+201,S2,Respiratory Equipment,1.3,1.3,2026-11-06 09:00:52.955,False,synthetic
+201,S2,Patient,1.669,1.669,2026-11-06 09:00:54.869,False,synthetic
+201,S2,RobotHandR,0.139,0.139,2026-11-06 09:00:56.684,False,synthetic
+201,S2,RobotHandR,0.656,0.656,2026-11-06 09:00:58.369,False,synthetic
+201,S2,HeadFollower,0.998,0.998,2026-11-06 09:01:00.741,False,synthetic
+201,S2,HeadFollower,0.239,0.239,2026-11-06 09:01:02.355,False,synthetic
+201,S2,AutoHandPlayer,0.484,0.484,2026-11-06 09:01:04.053,False,synthetic
+201,S2,HeadFollower,0.669,0.669,2026-11-06 09:01:06.224,False,synthetic
+201,S2,RobotHandR,1.807,1.807,2026-11-06 09:01:08.069,False,synthetic
+201,S2,Respiratory Equipment,1.976,1.976,2026-11-06 09:01:10.787,False,synthetic
+201,S2,HeadFollower,1.937,1.937,2026-11-06 09:01:12.967,False,synthetic
+201,S2,RobotHandR,2.018,2.018,2026-11-06 09:01:14.350,False,synthetic
+201,S2,AutoHandPlayer,1.642,1.642,2026-11-06 09:01:16.882,False,synthetic
+201,S2,IV Equipment,0.552,0.552,2026-11-06 09:01:18.223,False,synthetic
+201,S2,IV Equipment,2.034,2.034,2026-11-06 09:01:20.748,False,synthetic
+201,S2,HeadFollower,1.07,1.07,2026-11-06 09:01:22.753,False,synthetic
+201,S2,RobotHandR,1.19,1.19,2026-11-06 09:01:24.446,False,synthetic
+201,S2,AutoHandPlayer,1.941,1.941,2026-11-06 09:01:26.465,False,synthetic
+201,S2,RoomCollider2,1.351,1.351,2026-11-06 09:01:28.703,False,synthetic
+201,S2,RobotHandR,0.261,0.261,2026-11-06 09:01:30.635,False,synthetic
+201,S2,Respiratory Equipment,1.986,1.986,2026-11-06 09:01:32.039,False,synthetic
+201,S2,AutoHandPlayer,0.574,0.574,2026-11-06 09:01:34.510,False,synthetic
+201,S2,IV Equipment,0.88,0.88,2026-11-06 09:01:36.681,False,synthetic
+201,S2,HeadFollower,0.78,0.78,2026-11-06 09:01:38.294,False,synthetic
+201,S2,RoomCollider2,0.67,0.67,2026-11-06 09:01:40.011,False,synthetic
+201,S2,Respiratory Equipment,1.052,1.052,2026-11-06 09:01:42.824,False,synthetic
+201,S2,AutoHandPlayer,1.714,1.714,2026-11-06 09:01:44.152,False,synthetic
+201,S2,RoomCollider2,0.237,0.237,2026-11-06 09:01:46.024,False,synthetic
+201,S2,Patient,0.773,0.773,2026-11-06 09:01:48.330,False,synthetic
+201,S2,Respiratory Equipment,1.548,1.548,2026-11-06 09:01:50.444,False,synthetic
+201,S2,Respiratory Equipment,1.916,1.916,2026-11-06 09:01:52.622,False,synthetic
+201,S2,Monitor,1.904,1.904,2026-11-06 09:01:54.794,False,synthetic
+201,S2,AutoHandPlayer,0.916,0.916,2026-11-06 09:01:56.031,False,synthetic
+201,S2,AutoHandPlayer,1.942,1.942,2026-11-06 09:01:58.137,False,synthetic
+201,S2,AutoHandPlayer,0.081,0.081,2026-11-06 09:02:00.510,False,synthetic
+201,S2,HeadFollower,2.084,2.084,2026-11-06 09:02:02.695,False,synthetic
+201,S2,IV Equipment,1.894,1.894,2026-11-06 09:02:04.481,False,synthetic
+201,S2,RoomCollider2,2.059,2.059,2026-11-06 09:02:06.912,False,synthetic
+201,S2,RoomCollider2,1.474,1.474,2026-11-06 09:02:08.749,False,synthetic
+201,S2,Monitor,1.09,1.09,2026-11-06 09:02:10.216,False,synthetic
+201,S2,Patient,1.308,1.308,2026-11-06 09:02:12.871,False,synthetic
+201,S2,IV Equipment,0.876,0.876,2026-11-06 09:02:14.386,False,synthetic
+201,S2,HeadFollower,0.545,0.545,2026-11-06 09:02:16.754,False,synthetic
+201,S2,HeadFollower,1.998,1.998,2026-11-06 09:02:18.624,False,synthetic
+201,S2,HeadFollower,1.273,1.273,2026-11-06 09:02:20.575,False,synthetic
+201,S2,IV Equipment,0.128,0.128,2026-11-06 09:02:22.248,False,synthetic
+201,S2,Respiratory Equipment,0.716,0.716,2026-11-06 09:02:24.739,False,synthetic
+201,S2,Respiratory Equipment,1.856,1.856,2026-11-06 09:02:26.446,False,synthetic
+201,S2,Patient,0.7,0.7,2026-11-06 09:02:28.656,False,synthetic
+201,S2,IV Equipment,0.525,0.525,2026-11-06 09:02:30.879,False,synthetic
+201,S2,Respiratory Equipment,0.725,0.725,2026-11-06 09:02:32.470,False,synthetic
+201,S2,Monitor,0.4,0.4,2026-11-06 09:02:34.605,False,synthetic
+201,S2,IV Equipment,1.476,1.476,2026-11-06 09:02:36.731,False,synthetic
+201,S2,Patient,1.109,1.109,2026-11-06 09:02:38.862,False,synthetic
+201,S2,HeadFollower,0.831,0.831,2026-11-06 09:02:40.962,False,synthetic
+201,S2,RobotHandR,1.165,1.165,2026-11-06 09:02:42.021,False,synthetic
+201,S2,Respiratory Equipment,1.587,1.587,2026-11-06 09:02:44.254,False,synthetic
+201,S2,IV Equipment,0.167,0.167,2026-11-06 09:02:46.076,False,synthetic
+201,S2,IV Equipment,0.722,0.722,2026-11-06 09:02:48.217,False,synthetic
+202,S2,Patient,0.65,0.65,2026-11-06 09:00:00.600,False,synthetic
+202,S2,RobotHandR,1.68,1.68,2026-11-06 09:00:02.478,False,synthetic
+202,S2,IV Equipment,1.479,1.479,2026-11-06 09:00:04.000,False,synthetic
+202,S2,HeadFollower,1.268,1.268,2026-11-06 09:00:06.326,False,synthetic
+202,S2,HeadFollower,0.115,0.115,2026-11-06 09:00:08.216,False,synthetic
+202,S2,RobotHandR,1.235,1.235,2026-11-06 09:00:10.477,False,synthetic
+202,S2,Respiratory Equipment,1.508,1.508,2026-11-06 09:00:12.501,False,synthetic
+202,S2,AutoHandPlayer,1.697,1.697,2026-11-06 09:00:14.705,False,synthetic
+202,S2,Respiratory Equipment,1.927,1.927,2026-11-06 09:00:16.052,False,synthetic
+202,S2,Respiratory Equipment,1.363,1.363,2026-11-06 09:00:18.930,False,synthetic
+202,S2,RoomCollider2,1.471,1.471,2026-11-06 09:00:20.200,False,synthetic
+202,S2,RoomCollider2,1.562,1.562,2026-11-06 09:00:22.440,False,synthetic
+202,S2,RoomCollider2,0.088,0.088,2026-11-06 09:00:24.641,False,synthetic
+202,S2,HeadFollower,0.508,0.508,2026-11-06 09:00:26.877,False,synthetic
+202,S2,RobotHandR,0.775,0.775,2026-11-06 09:00:28.612,False,synthetic
+202,S2,Monitor,1.101,1.101,2026-11-06 09:00:30.389,False,synthetic
+202,S2,RobotHandR,1.149,1.149,2026-11-06 09:00:32.362,False,synthetic
+202,S2,HeadFollower,1.673,1.673,2026-11-06 09:00:34.237,False,synthetic
+202,S2,IV Equipment,1.487,1.487,2026-11-06 09:00:36.250,False,synthetic
+202,S2,HeadFollower,1.44,1.44,2026-11-06 09:00:38.713,False,synthetic
+202,S2,Respiratory Equipment,1.286,1.286,2026-11-06 09:00:40.148,False,synthetic
+202,S2,AutoHandPlayer,0.942,0.942,2026-11-06 09:00:42.088,False,synthetic
+202,S2,Respiratory Equipment,1.947,1.947,2026-11-06 09:00:44.096,False,synthetic
+202,S2,AutoHandPlayer,1.165,1.165,2026-11-06 09:00:46.137,False,synthetic
+202,S2,Monitor,1.602,1.602,2026-11-06 09:00:48.662,False,synthetic
+202,S2,HeadFollower,0.624,0.624,2026-11-06 09:00:50.486,False,synthetic
+202,S2,AutoHandPlayer,0.126,0.126,2026-11-06 09:00:52.726,False,synthetic
+202,S2,HeadFollower,0.755,0.755,2026-11-06 09:00:54.060,False,synthetic
+202,S2,HeadFollower,0.536,0.536,2026-11-06 09:00:56.395,False,synthetic
+202,S2,IV Equipment,1.158,1.158,2026-11-06 09:00:58.474,False,synthetic
+202,S2,IV Equipment,1.196,1.196,2026-11-06 09:01:00.271,False,synthetic
+202,S2,Monitor,1.578,1.578,2026-11-06 09:01:02.577,False,synthetic
+202,S2,Patient,0.565,0.565,2026-11-06 09:01:04.292,False,synthetic
+202,S2,Patient,1.033,1.033,2026-11-06 09:01:06.952,False,synthetic
+202,S2,AutoHandPlayer,0.512,0.512,2026-11-06 09:01:08.215,False,synthetic
+202,S2,Respiratory Equipment,0.861,0.861,2026-11-06 09:01:10.718,False,synthetic
+202,S2,Monitor,0.307,0.307,2026-11-06 09:01:12.789,False,synthetic
+202,S2,RoomCollider2,0.392,0.392,2026-11-06 09:01:14.925,False,synthetic
+202,S2,RobotHandR,1.088,1.088,2026-11-06 09:01:16.734,False,synthetic
+202,S2,RobotHandR,1.039,1.039,2026-11-06 09:01:18.175,False,synthetic
+202,S2,RoomCollider2,0.609,0.609,2026-11-06 09:01:20.782,False,synthetic
+202,S2,RoomCollider2,0.109,0.109,2026-11-06 09:01:22.154,False,synthetic
+202,S2,Patient,1.416,1.416,2026-11-06 09:01:24.535,False,synthetic
+202,S2,Respiratory Equipment,1.167,1.167,2026-11-06 09:01:26.828,False,synthetic
+202,S2,RoomCollider2,0.307,0.307,2026-11-06 09:01:28.681,False,synthetic
+202,S2,RobotHandR,1.583,1.583,2026-11-06 09:01:30.458,False,synthetic
+202,S2,IV Equipment,2.051,2.051,2026-11-06 09:01:32.907,False,synthetic
+202,S2,HeadFollower,0.751,0.751,2026-11-06 09:01:34.533,False,synthetic
+202,S2,Monitor,2.042,2.042,2026-11-06 09:01:36.929,False,synthetic
+202,S2,RoomCollider2,0.87,0.87,2026-11-06 09:01:38.001,False,synthetic
+202,S2,RoomCollider2,0.144,0.144,2026-11-06 09:01:40.771,False,synthetic
+202,S2,Monitor,1.475,1.475,2026-11-06 09:01:42.079,False,synthetic
+202,S2,RobotHandR,0.623,0.623,2026-11-06 09:01:44.102,False,synthetic
+202,S2,AutoHandPlayer,0.218,0.218,2026-11-06 09:01:46.390,False,synthetic
+202,S2,Patient,1.846,1.846,2026-11-06 09:01:48.087,False,synthetic
+202,S2,AutoHandPlayer,0.314,0.314,2026-11-06 09:01:50.849,False,synthetic
+202,S2,Monitor,0.735,0.735,2026-11-06 09:01:52.364,False,synthetic
+202,S2,AutoHandPlayer,0.585,0.585,2026-11-06 09:01:54.719,False,synthetic
+202,S2,Monitor,1.834,1.834,2026-11-06 09:01:56.279,False,synthetic
+202,S2,AutoHandPlayer,0.83,0.83,2026-11-06 09:01:58.726,False,synthetic
+202,S2,HeadFollower,0.132,0.132,2026-11-06 09:02:00.102,False,synthetic
+202,S2,Monitor,1.943,1.943,2026-11-06 09:02:02.287,False,synthetic
+202,S2,IV Equipment,0.082,0.082,2026-11-06 09:02:04.520,False,synthetic
+202,S2,RobotHandR,1.663,1.663,2026-11-06 09:02:06.689,False,synthetic
+202,S2,HeadFollower,2.018,2.018,2026-11-06 09:02:08.496,False,synthetic
+202,S2,AutoHandPlayer,0.78,0.78,2026-11-06 09:02:10.062,False,synthetic
+202,S2,RobotHandR,1.816,1.816,2026-11-06 09:02:12.594,False,synthetic
+202,S2,RoomCollider2,1.64,1.64,2026-11-06 09:02:14.788,False,synthetic
+202,S2,IV Equipment,0.214,0.214,2026-11-06 09:02:16.338,False,synthetic
+202,S2,HeadFollower,0.914,0.914,2026-11-06 09:02:18.469,False,synthetic
+202,S2,RoomCollider2,0.639,0.639,2026-11-06 09:02:20.945,False,synthetic
+202,S2,HeadFollower,1.963,1.963,2026-11-06 09:02:22.651,False,synthetic
+202,S2,Monitor,1.255,1.255,2026-11-06 09:02:24.142,False,synthetic
+202,S2,Patient,1.832,1.832,2026-11-06 09:02:26.043,False,synthetic
+202,S2,Respiratory Equipment,2.004,2.004,2026-11-06 09:02:28.956,False,synthetic
+202,S2,Monitor,0.349,0.349,2026-11-06 09:02:30.723,False,synthetic
+202,S2,IV Equipment,0.947,0.947,2026-11-06 09:02:32.851,False,synthetic
+202,S2,Patient,1.681,1.681,2026-11-06 09:02:34.821,False,synthetic
+202,S2,RoomCollider2,1.773,1.773,2026-11-06 09:02:36.643,False,synthetic
+202,S2,Respiratory Equipment,0.606,0.606,2026-11-06 09:02:38.487,False,synthetic
+202,S2,Monitor,1.73,1.73,2026-11-06 09:02:40.215,False,synthetic
+202,S2,Patient,1.439,1.439,2026-11-06 09:02:42.136,False,synthetic
+202,S2,Monitor,0.303,0.303,2026-11-06 09:02:44.820,False,synthetic
+202,S2,Patient,1.623,1.623,2026-11-06 09:02:46.027,False,synthetic
+202,S2,IV Equipment,1.206,1.206,2026-11-06 09:02:48.018,False,synthetic
+203,S2,RobotHandR,1.139,1.139,2026-11-06 09:00:00.156,False,synthetic
+203,S2,AutoHandPlayer,1.554,1.554,2026-11-06 09:00:02.755,False,synthetic
+203,S2,AutoHandPlayer,1.726,1.726,2026-11-06 09:00:04.902,False,synthetic
+203,S2,Monitor,0.527,0.527,2026-11-06 09:00:06.380,False,synthetic
+203,S2,Respiratory Equipment,0.469,0.469,2026-11-06 09:00:08.116,False,synthetic
+203,S2,RobotHandR,1.963,1.963,2026-11-06 09:00:10.647,False,synthetic
+203,S2,HeadFollower,1.707,1.707,2026-11-06 09:00:12.256,False,synthetic
+203,S2,RobotHandR,1.534,1.534,2026-11-06 09:00:14.213,False,synthetic
+203,S2,RoomCollider2,1.303,1.303,2026-11-06 09:00:16.611,False,synthetic
+203,S2,Patient,1.835,1.835,2026-11-06 09:00:18.189,False,synthetic
+203,S2,HeadFollower,1.774,1.774,2026-11-06 09:00:20.413,False,synthetic
+203,S2,Monitor,0.938,0.938,2026-11-06 09:00:22.864,False,synthetic
+203,S2,IV Equipment,0.488,0.488,2026-11-06 09:00:24.788,False,synthetic
+203,S2,RobotHandR,1.915,1.915,2026-11-06 09:00:26.203,False,synthetic
+203,S2,RobotHandR,1.079,1.079,2026-11-06 09:00:28.410,False,synthetic
+203,S2,IV Equipment,1.82,1.82,2026-11-06 09:00:30.777,False,synthetic
+203,S2,RobotHandR,1.971,1.971,2026-11-06 09:00:32.134,False,synthetic
+203,S2,RoomCollider2,0.833,0.833,2026-11-06 09:00:34.058,False,synthetic
+203,S2,Monitor,1.487,1.487,2026-11-06 09:00:36.189,False,synthetic
+203,S2,Patient,0.094,0.094,2026-11-06 09:00:38.967,False,synthetic
+203,S2,AutoHandPlayer,1.567,1.567,2026-11-06 09:00:40.678,False,synthetic
+203,S2,IV Equipment,1.728,1.728,2026-11-06 09:00:42.823,False,synthetic
+203,S2,RoomCollider2,0.655,0.655,2026-11-06 09:00:44.979,False,synthetic
+203,S2,Respiratory Equipment,0.261,0.261,2026-11-06 09:00:46.534,False,synthetic
+203,S2,IV Equipment,0.183,0.183,2026-11-06 09:00:48.705,False,synthetic
+203,S2,Monitor,1.115,1.115,2026-11-06 09:00:50.134,False,synthetic
+203,S2,RobotHandR,0.755,0.755,2026-11-06 09:00:52.263,False,synthetic
+203,S2,Respiratory Equipment,0.536,0.536,2026-11-06 09:00:54.969,False,synthetic
+203,S2,IV Equipment,0.114,0.114,2026-11-06 09:00:56.831,False,synthetic
+203,S2,AutoHandPlayer,0.324,0.324,2026-11-06 09:00:58.964,False,synthetic
+203,S2,Respiratory Equipment,0.609,0.609,2026-11-06 09:01:00.212,False,synthetic
+203,S2,RoomCollider2,1.052,1.052,2026-11-06 09:01:02.462,False,synthetic
+203,S2,IV Equipment,0.819,0.819,2026-11-06 09:01:04.897,False,synthetic
+203,S2,Monitor,1.852,1.852,2026-11-06 09:01:06.854,False,synthetic
+203,S2,IV Equipment,1.769,1.769,2026-11-06 09:01:08.563,False,synthetic
+203,S2,IV Equipment,0.343,0.343,2026-11-06 09:01:10.359,False,synthetic
+203,S2,IV Equipment,0.495,0.495,2026-11-06 09:01:12.042,False,synthetic
+203,S2,IV Equipment,1.994,1.994,2026-11-06 09:01:14.408,False,synthetic
+203,S2,HeadFollower,1.747,1.747,2026-11-06 09:01:16.963,False,synthetic
+203,S2,RoomCollider2,2.007,2.007,2026-11-06 09:01:18.887,False,synthetic
+203,S2,Patient,1.638,1.638,2026-11-06 09:01:20.624,False,synthetic
+203,S2,AutoHandPlayer,0.532,0.532,2026-11-06 09:01:22.887,False,synthetic
+203,S2,Respiratory Equipment,0.341,0.341,2026-11-06 09:01:24.381,False,synthetic
+203,S2,RobotHandR,1.13,1.13,2026-11-06 09:01:26.403,False,synthetic
+203,S2,IV Equipment,0.394,0.394,2026-11-06 09:01:28.763,False,synthetic
+203,S2,AutoHandPlayer,1.819,1.819,2026-11-06 09:01:30.098,False,synthetic
+203,S2,Respiratory Equipment,1.474,1.474,2026-11-06 09:01:32.795,False,synthetic
+203,S2,IV Equipment,0.54,0.54,2026-11-06 09:01:34.730,False,synthetic
+203,S2,Monitor,1.162,1.162,2026-11-06 09:01:36.174,False,synthetic
+203,S2,Patient,1.154,1.154,2026-11-06 09:01:38.236,False,synthetic
+203,S2,Monitor,1.011,1.011,2026-11-06 09:01:40.060,False,synthetic
+203,S2,Monitor,1.996,1.996,2026-11-06 09:01:42.514,False,synthetic
+203,S2,RobotHandR,0.755,0.755,2026-11-06 09:01:44.124,False,synthetic
+203,S2,Respiratory Equipment,0.293,0.293,2026-11-06 09:01:46.914,False,synthetic
+203,S2,RoomCollider2,1.24,1.24,2026-11-06 09:01:48.965,False,synthetic
+203,S2,IV Equipment,0.382,0.382,2026-11-06 09:01:50.269,False,synthetic
+203,S2,Monitor,0.132,0.132,2026-11-06 09:01:52.016,False,synthetic
+203,S2,HeadFollower,0.173,0.173,2026-11-06 09:01:54.292,False,synthetic
+203,S2,Respiratory Equipment,1.051,1.051,2026-11-06 09:01:56.153,False,synthetic
+203,S2,HeadFollower,0.953,0.953,2026-11-06 09:01:58.081,False,synthetic
+203,S2,RoomCollider2,1.694,1.694,2026-11-06 09:02:00.026,False,synthetic
+203,S2,AutoHandPlayer,1.866,1.866,2026-11-06 09:02:02.023,False,synthetic
+203,S2,IV Equipment,0.961,0.961,2026-11-06 09:02:04.806,False,synthetic
+203,S2,Monitor,1.67,1.67,2026-11-06 09:02:06.885,False,synthetic
+203,S2,Monitor,1.206,1.206,2026-11-06 09:02:08.247,False,synthetic
+203,S2,RobotHandR,0.19,0.19,2026-11-06 09:02:10.613,False,synthetic
+203,S2,IV Equipment,1.861,1.861,2026-11-06 09:02:12.134,False,synthetic
+203,S2,Patient,1.63,1.63,2026-11-06 09:02:14.648,False,synthetic
+203,S2,Respiratory Equipment,0.402,0.402,2026-11-06 09:02:16.258,False,synthetic
+203,S2,HeadFollower,0.657,0.657,2026-11-06 09:02:18.832,False,synthetic
+203,S2,Patient,1.446,1.446,2026-11-06 09:02:20.622,False,synthetic
+203,S2,Monitor,1.131,1.131,2026-11-06 09:02:22.492,False,synthetic
+203,S2,HeadFollower,1.68,1.68,2026-11-06 09:02:24.267,False,synthetic
+203,S2,RobotHandR,0.302,0.302,2026-11-06 09:02:26.654,False,synthetic
+203,S2,IV Equipment,0.144,0.144,2026-11-06 09:02:28.013,False,synthetic
+203,S2,IV Equipment,1.303,1.303,2026-11-06 09:02:30.721,False,synthetic
+203,S2,RobotHandR,0.677,0.677,2026-11-06 09:02:32.848,False,synthetic
+203,S2,Patient,0.619,0.619,2026-11-06 09:02:34.596,False,synthetic
+203,S2,AutoHandPlayer,0.099,0.099,2026-11-06 09:02:36.322,False,synthetic
+203,S2,RobotHandR,1.886,1.886,2026-11-06 09:02:38.577,False,synthetic
+203,S2,Monitor,1.078,1.078,2026-11-06 09:02:40.095,False,synthetic
+203,S2,RobotHandR,1.031,1.031,2026-11-06 09:02:42.355,False,synthetic
+203,S2,IV Equipment,0.378,0.378,2026-11-06 09:02:44.694,False,synthetic
+203,S2,Patient,1.486,1.486,2026-11-06 09:02:46.230,False,synthetic
+203,S2,Patient,1.94,1.94,2026-11-06 09:02:48.220,False,synthetic
+204,S2,RobotHandR,1.075,1.075,2026-11-06 09:00:00.865,False,synthetic
+204,S2,AutoHandPlayer,2.037,2.037,2026-11-06 09:00:02.389,False,synthetic
+204,S2,Monitor,1.645,1.645,2026-11-06 09:00:04.109,False,synthetic
+204,S2,Patient,0.722,0.722,2026-11-06 09:00:06.590,False,synthetic
+204,S2,AutoHandPlayer,1.147,1.147,2026-11-06 09:00:08.593,False,synthetic
+204,S2,HeadFollower,1.354,1.354,2026-11-06 09:00:10.657,False,synthetic
+204,S2,Monitor,0.97,0.97,2026-11-06 09:00:12.931,False,synthetic
+204,S2,Monitor,0.22,0.22,2026-11-06 09:00:14.982,False,synthetic
+204,S2,IV Equipment,1.762,1.762,2026-11-06 09:00:16.854,False,synthetic
+204,S2,HeadFollower,1.332,1.332,2026-11-06 09:00:18.261,False,synthetic
+204,S2,Respiratory Equipment,0.275,0.275,2026-11-06 09:00:20.007,False,synthetic
+204,S2,RoomCollider2,0.159,0.159,2026-11-06 09:00:22.358,False,synthetic
+204,S2,RoomCollider2,0.547,0.547,2026-11-06 09:00:24.376,False,synthetic
+204,S2,IV Equipment,1.592,1.592,2026-11-06 09:00:26.666,False,synthetic
+204,S2,Patient,0.503,0.503,2026-11-06 09:00:28.526,False,synthetic
+204,S2,HeadFollower,1.614,1.614,2026-11-06 09:00:30.834,False,synthetic
+204,S2,AutoHandPlayer,1.542,1.542,2026-11-06 09:00:32.030,False,synthetic
+204,S2,Monitor,0.878,0.878,2026-11-06 09:00:34.779,False,synthetic
+204,S2,AutoHandPlayer,0.223,0.223,2026-11-06 09:00:36.876,False,synthetic
+204,S2,Respiratory Equipment,1.872,1.872,2026-11-06 09:00:38.994,False,synthetic
+204,S2,RobotHandR,1.989,1.989,2026-11-06 09:00:40.376,False,synthetic
+204,S2,HeadFollower,0.26,0.26,2026-11-06 09:00:42.468,False,synthetic
+204,S2,Patient,0.994,0.994,2026-11-06 09:00:44.152,False,synthetic
+204,S2,HeadFollower,0.852,0.852,2026-11-06 09:00:46.485,False,synthetic
+204,S2,Respiratory Equipment,1.364,1.364,2026-11-06 09:00:48.691,False,synthetic
+204,S2,Patient,0.528,0.528,2026-11-06 09:00:50.122,False,synthetic
+204,S2,IV Equipment,1.09,1.09,2026-11-06 09:00:52.606,False,synthetic
+204,S2,Patient,2.024,2.024,2026-11-06 09:00:54.476,False,synthetic
+204,S2,Monitor,1.653,1.653,2026-11-06 09:00:56.757,False,synthetic
+204,S2,Respiratory Equipment,1.363,1.363,2026-11-06 09:00:58.166,False,synthetic
+204,S2,Respiratory Equipment,1.121,1.121,2026-11-06 09:01:00.364,False,synthetic
+204,S2,RoomCollider2,0.073,0.073,2026-11-06 09:01:02.133,False,synthetic
+204,S2,Respiratory Equipment,0.91,0.91,2026-11-06 09:01:04.101,False,synthetic
+204,S2,Respiratory Equipment,0.432,0.432,2026-11-06 09:01:06.241,False,synthetic
+204,S2,Patient,1.714,1.714,2026-11-06 09:01:08.544,False,synthetic
+204,S2,Patient,1.605,1.605,2026-11-06 09:01:10.428,False,synthetic
+204,S2,Patient,0.943,0.943,2026-11-06 09:01:12.856,False,synthetic
+204,S2,IV Equipment,0.939,0.939,2026-11-06 09:01:14.491,False,synthetic
+204,S2,Respiratory Equipment,0.169,0.169,2026-11-06 09:01:16.963,False,synthetic
+204,S2,RoomCollider2,0.593,0.593,2026-11-06 09:01:18.601,False,synthetic
+204,S2,HeadFollower,2.07,2.07,2026-11-06 09:01:20.980,False,synthetic
+204,S2,AutoHandPlayer,0.372,0.372,2026-11-06 09:01:22.008,False,synthetic
+204,S2,Monitor,0.899,0.899,2026-11-06 09:01:24.072,False,synthetic
+204,S2,HeadFollower,1.736,1.736,2026-11-06 09:01:26.154,False,synthetic
+204,S2,RoomCollider2,0.91,0.91,2026-11-06 09:01:28.648,False,synthetic
+204,S2,IV Equipment,1.98,1.98,2026-11-06 09:01:30.592,False,synthetic
+204,S2,AutoHandPlayer,1.433,1.433,2026-11-06 09:01:32.972,False,synthetic
+204,S2,Monitor,1.91,1.91,2026-11-06 09:01:34.684,False,synthetic
+204,S2,HeadFollower,0.735,0.735,2026-11-06 09:01:36.874,False,synthetic
+204,S2,Respiratory Equipment,0.65,0.65,2026-11-06 09:01:38.585,False,synthetic
+204,S2,Respiratory Equipment,0.125,0.125,2026-11-06 09:01:40.680,False,synthetic
+204,S2,Patient,1.422,1.422,2026-11-06 09:01:42.306,False,synthetic
+204,S2,HeadFollower,1.102,1.102,2026-11-06 09:01:44.449,False,synthetic
+204,S2,HeadFollower,1.871,1.871,2026-11-06 09:01:46.859,False,synthetic
+204,S2,Patient,1.224,1.224,2026-11-06 09:01:48.898,False,synthetic
+204,S2,IV Equipment,2.063,2.063,2026-11-06 09:01:50.578,False,synthetic
+204,S2,Patient,1.667,1.667,2026-11-06 09:01:52.886,False,synthetic
+204,S2,IV Equipment,1.747,1.747,2026-11-06 09:01:54.106,False,synthetic
+204,S2,RoomCollider2,1.74,1.74,2026-11-06 09:01:56.026,False,synthetic
+204,S2,Patient,1.468,1.468,2026-11-06 09:01:58.951,False,synthetic
+204,S2,AutoHandPlayer,1.701,1.701,2026-11-06 09:02:00.373,False,synthetic
+204,S2,Patient,0.283,0.283,2026-11-06 09:02:02.184,False,synthetic
+204,S2,Respiratory Equipment,0.99,0.99,2026-11-06 09:02:04.179,False,synthetic
+204,S2,IV Equipment,1.093,1.093,2026-11-06 09:02:06.628,False,synthetic
+204,S2,HeadFollower,2.049,2.049,2026-11-06 09:02:08.988,False,synthetic
+204,S2,IV Equipment,1.639,1.639,2026-11-06 09:02:10.603,False,synthetic
+204,S2,RoomCollider2,2.02,2.02,2026-11-06 09:02:12.203,False,synthetic
+204,S2,Monitor,1.258,1.258,2026-11-06 09:02:14.483,False,synthetic
+204,S2,IV Equipment,2.077,2.077,2026-11-06 09:02:16.935,False,synthetic
+204,S2,RobotHandR,1.832,1.832,2026-11-06 09:02:18.107,False,synthetic
+204,S2,AutoHandPlayer,0.869,0.869,2026-11-06 09:02:20.522,False,synthetic
+204,S2,Monitor,0.397,0.397,2026-11-06 09:02:22.738,False,synthetic
+204,S2,IV Equipment,1.001,1.001,2026-11-06 09:02:24.167,False,synthetic
+204,S2,Patient,2.009,2.009,2026-11-06 09:02:26.473,False,synthetic
+204,S2,HeadFollower,1.806,1.806,2026-11-06 09:02:28.755,False,synthetic
+204,S2,RobotHandR,0.439,0.439,2026-11-06 09:02:30.892,False,synthetic
+204,S2,Patient,0.19,0.19,2026-11-06 09:02:32.553,False,synthetic
+204,S2,AutoHandPlayer,1.548,1.548,2026-11-06 09:02:34.250,False,synthetic
+204,S2,IV Equipment,0.693,0.693,2026-11-06 09:02:36.413,False,synthetic
+204,S2,Respiratory Equipment,1.322,1.322,2026-11-06 09:02:38.970,False,synthetic
+204,S2,Patient,0.797,0.797,2026-11-06 09:02:40.392,False,synthetic
+204,S2,AutoHandPlayer,1.997,1.997,2026-11-06 09:02:42.815,False,synthetic
+204,S2,Patient,0.108,0.108,2026-11-06 09:02:44.225,False,synthetic
+204,S2,HeadFollower,1.723,1.723,2026-11-06 09:02:46.077,False,synthetic
+204,S2,Monitor,1.502,1.502,2026-11-06 09:02:48.567,False,synthetic
