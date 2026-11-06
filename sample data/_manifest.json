@@ -1,0 +1,45 @@
+{
+  "schema_version": 3,
+  "notes": [
+    "PUBLIC DEMO: All gaze rows, action logs, scenarios, and learner identities are fictional. No real eye-tracking or personal data included.",
+    "Demo scores and rubric are not clinically validated."
+  ],
+  "files": {
+    "G1_S1_PUBLIC_SYNTHETIC.csv": {
+      "group": "G1",
+      "session": "S1",
+      "provenance": "synthetic",
+      "scenario_file": "session_1_SYNTHETIC.json"
+    },
+    "G1_S2_PUBLIC_SYNTHETIC.csv": {
+      "group": "G1",
+      "session": "S2",
+      "provenance": "synthetic",
+      "scenario_file": "session_2_SYNTHETIC.json"
+    },
+    "G2_S1_PUBLIC_SYNTHETIC.csv": {
+      "group": "G2",
+      "session": "S1",
+      "provenance": "synthetic",
+      "scenario_file": "session_1_SYNTHETIC.json"
+    },
+    "G2_S2_PUBLIC_SYNTHETIC.csv": {
+      "group": "G2",
+      "session": "S2",
+      "provenance": "synthetic",
+      "scenario_file": "session_2_SYNTHETIC.json"
+    },
+    "G3_S1_PUBLIC_SYNTHETIC.csv": {
+      "group": "G3",
+      "session": "S1",
+      "provenance": "synthetic",
+      "scenario_file": "session_1_SYNTHETIC.json"
+    },
+    "G3_S2_PUBLIC_SYNTHETIC.csv": {
+      "group": "G3",
+      "session": "S2",
+      "provenance": "synthetic",
+      "scenario_file": "session_2_SYNTHETIC.json"
+    }
+  }
+}

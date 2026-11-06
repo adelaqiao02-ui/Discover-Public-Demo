@@ -1,0 +1,25 @@
+{
+  "serializeableList": [
+    {
+      "guid": "synthetic-demo-config",
+      "serializedFields": [
+        {
+          "fieldName": "patientName",
+          "data": "Demo Patient (synthetic)"
+        },
+        {
+          "fieldName": "roomName",
+          "data": "Training Room (synthetic)"
+        },
+        {
+          "fieldName": "scenarios",
+          "data": {
+            "$values": []
+          }
+        }
+      ]
+    }
+  ],
+  "synthetic": true,
+  "note": "Illustrative only. No original configuration JSON was provided."
+}

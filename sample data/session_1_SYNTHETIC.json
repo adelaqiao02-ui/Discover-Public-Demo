@@ -1,0 +1,63 @@
+{
+  "name": "PUBLIC DEMO - Fictional Scenario S1",
+  "uuid": "synthetic-public-s1",
+  "synthetic": true,
+  "history": [
+    {
+      "time": "00:01:00",
+      "intervention": "SYNTHETIC checkpoint 1",
+      "expected_change": {
+        "HR": 103,
+        "SPO2": 95,
+        "Reasoning": "Invented demo scenario, not clinical advice"
+      },
+      "actual_vitals_at_time": {
+        "HR": 105,
+        "SPO2": 94
+      },
+      "synthetic": true
+    },
+    {
+      "time": "00:02:00",
+      "intervention": "SYNTHETIC checkpoint 2",
+      "expected_change": {
+        "HR": 106,
+        "SPO2": 94,
+        "Reasoning": "Invented demo scenario, not clinical advice"
+      },
+      "actual_vitals_at_time": {
+        "HR": 108,
+        "SPO2": 93
+      },
+      "synthetic": true
+    },
+    {
+      "time": "00:03:00",
+      "intervention": "SYNTHETIC checkpoint 3",
+      "expected_change": {
+        "HR": 109,
+        "SPO2": 93,
+        "Reasoning": "Invented demo scenario, not clinical advice"
+      },
+      "actual_vitals_at_time": {
+        "HR": 111,
+        "SPO2": 92
+      },
+      "synthetic": true
+    },
+    {
+      "time": "00:04:00",
+      "intervention": "SYNTHETIC checkpoint 4",
+      "expected_change": {
+        "HR": 112,
+        "SPO2": 92,
+        "Reasoning": "Invented demo scenario, not clinical advice"
+      },
+      "actual_vitals_at_time": {
+        "HR": 114,
+        "SPO2": 91
+      },
+      "synthetic": true
+    }
+  ]
+}
