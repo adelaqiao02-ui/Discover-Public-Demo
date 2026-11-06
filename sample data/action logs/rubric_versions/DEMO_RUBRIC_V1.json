@@ -1,0 +1,68 @@
+{
+  "approved_for_clinical_assessment": false,
+  "demo_trigger_time_s": 60,
+  "description": "Illustrative mock task workflow for product demonstration only. No clinical correctness claim.",
+  "disclaimer": "Synthetic actions, tasks, trigger and thresholds are invented for interface demonstration, not approved clinical steps or grades.",
+  "publication_status": "published_demo_only",
+  "published_utc": "2026-11-06T00:00:00+00:00",
+  "response_task_id": "T03",
+  "response_threshold_s": 60,
+  "rubric_id": "DEMO_RUBRIC_V1",
+  "sequence_constraints": [
+    [
+      "T01",
+      "T02"
+    ],
+    [
+      "T02",
+      "T03"
+    ],
+    [
+      "T03",
+      "T04"
+    ],
+    [
+      "T04",
+      "T05"
+    ]
+  ],
+  "synthetic": true,
+  "tasks": [
+    {
+      "action_type": "Observe",
+      "display_name": "Observe patient",
+      "target": "Patient",
+      "task_id": "T01"
+    },
+    {
+      "action_type": "Check",
+      "display_name": "Check monitor",
+      "target": "Monitor",
+      "task_id": "T02"
+    },
+    {
+      "action_type": "Review",
+      "display_name": "Review respiratory equipment",
+      "target": "Respiratory Equipment",
+      "task_id": "T03"
+    },
+    {
+      "action_type": "Inspect",
+      "display_name": "Inspect IV equipment",
+      "target": "IV Equipment",
+      "task_id": "T04"
+    },
+    {
+      "action_type": "Reassess",
+      "display_name": "Reassess patient",
+      "target": "Patient",
+      "task_id": "T05"
+    }
+  ],
+  "weights": {
+    "action_accuracy": 30,
+    "action_sequence": 15,
+    "response_time": 20,
+    "task_completion": 35
+  }
+}

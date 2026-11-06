@@ -1,0 +1,9 @@
+{
+  "clinical_validated": false,
+  "data_provenance": "synthetic",
+  "published_utc": "2026-11-06T00:00:00+00:00",
+  "rubric_id": "DEMO_RUBRIC_V1",
+  "rubric_sha256": "e6a37219315fec5c65ec6fdeef1afd55578a057e139f68a983f6822831a7cabf",
+  "snapshot_rows": 24,
+  "snapshot_sha256": "bac60f3276b8aca35ff999d1a9c0920ad9335868c08c7fcb4860d905ad5151bd"
+}
