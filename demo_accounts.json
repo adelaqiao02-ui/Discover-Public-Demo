@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "salt": "2f900db2f9b8900ccc8b6ca2984ce852",
+    "hash": "ac41b047791f2a182f93de7a07a030617995d3993edabc8fbb285cac661552f5",
+    "iterations": 240000,
+    "role": "admin",
+    "learner_id": null,
+    "group": null
+  },
+  "student1": {
+    "salt": "f8177a98f6bf8d8e84669cb7295f0c3a",
+    "hash": "b5174a6b70a5cecc5e49b9fb530534c638a68a5702d1568e3628af6d02d0e6c6",
+    "iterations": 240000,
+    "role": "student",
+    "learner_id": "1",
+    "group": "G1"
+  },
+  "leader_g1": {
+    "salt": "c594497c47c652fb1bbf5f4351b0f9d8",
+    "hash": "f9b6267a257bbd96959ba19d9b913c9f1d1060ad0aaf5fd27408143c7b73589e",
+    "iterations": 240000,
+    "role": "leader",
+    "group": "G1",
+    "learner_id": null
+  }
+}
