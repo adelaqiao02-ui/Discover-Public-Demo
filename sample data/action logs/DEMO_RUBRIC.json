@@ -1,0 +1,66 @@
+{
+  "rubric_id": "DEMO_RUBRIC_V1",
+  "synthetic": true,
+  "approved_for_clinical_assessment": false,
+  "description": "Illustrative mock task workflow for product demonstration only. No clinical correctness claim.",
+  "demo_trigger_time_s": 60,
+  "response_threshold_s": 60,
+  "weights": {
+    "task_completion": 35,
+    "action_accuracy": 30,
+    "response_time": 20,
+    "action_sequence": 15
+  },
+  "tasks": [
+    {
+      "task_id": "T01",
+      "action_type": "Observe",
+      "target": "Patient",
+      "display_name": "Observe patient"
+    },
+    {
+      "task_id": "T02",
+      "action_type": "Check",
+      "target": "Monitor",
+      "display_name": "Check monitor"
+    },
+    {
+      "task_id": "T03",
+      "action_type": "Review",
+      "target": "Respiratory Equipment",
+      "display_name": "Review respiratory equipment"
+    },
+    {
+      "task_id": "T04",
+      "action_type": "Inspect",
+      "target": "IV Equipment",
+      "display_name": "Inspect IV equipment"
+    },
+    {
+      "task_id": "T05",
+      "action_type": "Reassess",
+      "target": "Patient",
+      "display_name": "Reassess patient"
+    }
+  ],
+  "sequence_constraints": [
+    [
+      "T01",
+      "T02"
+    ],
+    [
+      "T02",
+      "T03"
+    ],
+    [
+      "T03",
+      "T04"
+    ],
+    [
+      "T04",
+      "T05"
+    ]
+  ],
+  "response_task_id": "T03",
+  "disclaimer": "Synthetic actions, tasks, trigger and thresholds are invented for interface demonstration, not approved clinical steps or grades."
+}

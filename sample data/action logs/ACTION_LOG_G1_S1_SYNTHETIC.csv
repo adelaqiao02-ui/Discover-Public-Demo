@@ -1,0 +1,20 @@
+group_id,session_id,learner_id,event_time_s,action_type,target,event_source,task_id,action_result,data_provenance,scenario_reference,event_id,notes
+G1,S1,1,41,Observe,Patient,learner,T01,success,synthetic,session_1,G1_S1_1_001,INVENTED demonstration event — no real learner action was observed
+G1,S1,1,60,Check,Monitor,learner,T02,success,synthetic,session_1,G1_S1_1_002,INVENTED demonstration event — no real learner action was observed
+G1,S1,1,129,Review,Respiratory Equipment,learner,T03,success,synthetic,session_1,G1_S1_1_003,INVENTED demonstration event — no real learner action was observed
+G1,S1,1,155,Inspect,IV Equipment,learner,T04,failed,synthetic,session_1,G1_S1_1_004,INVENTED demonstration event — no real learner action was observed
+G1,S1,1,181,Reassess,Patient,learner,T05,success,synthetic,session_1,G1_S1_1_005,INVENTED demonstration event — no real learner action was observed
+G1,S1,2,49,Observe,Patient,learner,T01,success,synthetic,session_1,G1_S1_2_001,INVENTED demonstration event — no real learner action was observed
+G1,S1,2,77,Check,Monitor,learner,T02,success,synthetic,session_1,G1_S1_2_002,INVENTED demonstration event — no real learner action was observed
+G1,S1,2,146,Review,Respiratory Equipment,learner,T03,failed,synthetic,session_1,G1_S1_2_003,INVENTED demonstration event — no real learner action was observed
+G1,S1,2,174,Inspect,IV Equipment,learner,T04,success,synthetic,session_1,G1_S1_2_004,INVENTED demonstration event — no real learner action was observed
+G1,S1,2,199,Reassess,Patient,learner,T05,success,synthetic,session_1,G1_S1_2_005,INVENTED demonstration event — no real learner action was observed
+G1,S1,3,53,Observe,Patient,learner,T01,success,synthetic,session_1,G1_S1_3_001,INVENTED demonstration event — no real learner action was observed
+G1,S1,3,81,Check,Monitor,learner,T02,failed,synthetic,session_1,G1_S1_3_002,INVENTED demonstration event — no real learner action was observed
+G1,S1,3,95,Reassess,Patient,learner,T05,success,synthetic,session_1,G1_S1_3_003,INVENTED demonstration event — no real learner action was observed
+G1,S1,3,117,Check,Monitor,learner,T02,success,synthetic,session_1,G1_S1_3_REPEAT,INVENTED repeat action for demo sequence analysis
+G1,S1,4,63,Observe,Patient,learner,T01,failed,synthetic,session_1,G1_S1_4_001,INVENTED demonstration event — no real learner action was observed
+G1,S1,4,83,Check,Monitor,learner,T02,success,synthetic,session_1,G1_S1_4_002,INVENTED demonstration event — no real learner action was observed
+G1,S1,4,112,Review,Respiratory Equipment,learner,T03,success,synthetic,session_1,G1_S1_4_003,INVENTED demonstration event — no real learner action was observed
+G1,S1,4,136,Inspect,IV Equipment,learner,T04,success,synthetic,session_1,G1_S1_4_004,INVENTED demonstration event — no real learner action was observed
+G1,S1,4,161,Reassess,Patient,learner,T05,success,synthetic,session_1,G1_S1_4_005,INVENTED demonstration event — no real learner action was observed
