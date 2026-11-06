@@ -10,7 +10,7 @@ from demo_action_analysis import load_demo_rubric, load_demo_actions, score_demo
 from scenario_views import scenario_tables, stamp
 from configuration_editor import render_admin_configuration
 from rubric_editor import render_admin_rubric
-from versioned_rubrics import load_rubric_history, load_rubric_snapshot
+from public_rubric_session import active_rubric, history as session_rubric_history, snapshot as session_rubric_snapshot, render as render_session_rubric
 
 st.set_page_config(page_title='VR Learner Report Card',layout='wide',page_icon='🎓')
 ROOT=Path(__file__).resolve().parent
@@ -190,7 +190,7 @@ if active_page == 'Report Card':
     st.subheader('Learner performance overview')
     st.caption('Gaze is observational evidence; simulated action scores below are clearly separated from real assessment.')
     # Load only synthetic action rows authorized to this account, same as Demo Performance.
-    overview_rubric=load_demo_rubric(DATA)
+    overview_rubric=active_rubric(DATA)
     overview_actions,_=load_demo_actions(DATA,u,group=group,session=session,learner=learner)
     overview_scores,_=score_demo(overview_actions,overview_rubric)
     st.warning('REAL PERFORMANCE: NOT ASSESSED. Synthetic actions and scoring rules are product demonstration fixtures, not real learner performance.')
@@ -350,16 +350,16 @@ if active_page == 'Demo Performance':
     st.header('Synthetic Action Analysis & Demo Performance')
     st.error('SYNTHETIC / INVENTED DEMONSTRATION DATA ONLY — NOT REAL LEARNER ACTIONS, NOT CLINICAL GRADES.')
     st.caption('All action logs on this tab were constructed for UI testing. Demo trigger times, required tasks, outcome flags, sequence rules, response threshold, and score weights were invented. They are not derived from the eye-tracking CSV or validated by clinicians.')
-    rubric=load_demo_rubric(DATA)
+    rubric=active_rubric(DATA)
     if u['role']=='admin':
-        history=load_rubric_history(DATA)
+        history=session_rubric_history(DATA)
         with st.expander('Published rubric history · immutable demo score snapshots',expanded=False):
             if history.empty:
                 st.caption('No published demo rubrics yet.')
             else:
                 st.dataframe(history,hide_index=True,use_container_width=True)
                 old_id=st.selectbox('Published version',history['rubric_id'].tolist(),key='v10_history_choice')
-                historical=load_rubric_snapshot(DATA,old_id)
+                historical=session_rubric_snapshot(DATA,old_id)
                 if not historical.empty:
                     st.dataframe(historical,use_container_width=True,hide_index=True)
                     st.download_button('Download saved version scores',historical.to_csv(index=False).encode('utf-8-sig'),
@@ -440,7 +440,7 @@ if active_page == 'Demo Performance':
 if active_page == 'Session Progress':
     st.header('S1 vs S2 · Synthetic session comparison')
     st.warning('SYNTHETIC DATA ONLY. Changes across simulated sessions do NOT demonstrate real learning progress.')
-    rubric=load_demo_rubric(DATA)
+    rubric=active_rubric(DATA)
     # Load both S1 and S2 regardless of sidebar session filter: otherwise paired comparisons disappear.
     progress_actions,_=load_demo_actions(DATA,u,group=group,session='All',learner=learner)
     progress_scores,_=score_demo(progress_actions,rubric)
@@ -639,5 +639,4 @@ if u['role'] == 'admin' and active_page == 'Admin Configuration':
     st.info('Public demo: configuration editing is disabled. This admin view is read-only for public visitors.')
     st.json(json.loads((DATA/'config_SYNTHETIC.json').read_text(encoding='utf-8')))
 if u['role'] == 'admin' and active_page == 'Demo Rubric Settings':
-    st.info('Public demo: rubric editing and publishing are disabled. Showing the fictional demo rubric.')
-    st.json(json.loads((DATA/'action logs'/'DEMO_RUBRIC.json').read_text(encoding='utf-8')))
+    render_session_rubric(DATA)
