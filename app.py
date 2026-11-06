@@ -8,7 +8,7 @@ import json,hashlib,hmac
 from data_pipeline import audit_dataset, load_action_logs, read_scenario, gaze_clues
 from demo_action_analysis import load_demo_rubric, load_demo_actions, score_demo
 from scenario_views import scenario_tables, stamp
-from configuration_editor import render_admin_configuration
+from public_configuration_session import render as render_session_configuration
 from rubric_editor import render_admin_rubric
 from public_rubric_session import active_rubric, history as session_rubric_history, snapshot as session_rubric_snapshot, render as render_session_rubric
 
@@ -636,7 +636,6 @@ if active_page == 'Data Dictionary':
 
 # Server-side role check is repeated at entry to each editing module.
 if u['role'] == 'admin' and active_page == 'Admin Configuration':
-    st.info('Public demo: configuration editing is disabled. This admin view is read-only for public visitors.')
-    st.json(json.loads((DATA/'config_SYNTHETIC.json').read_text(encoding='utf-8')))
+    render_session_configuration(DATA)
 if u['role'] == 'admin' and active_page == 'Demo Rubric Settings':
     render_session_rubric(DATA)
